@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const LOCALHOST="https://server-seven-blond.vercel.app/"
+const LOCALHOST="http://localhost:7401/"
 
 export const API_BASE_URL = LOCALHOST;
 
